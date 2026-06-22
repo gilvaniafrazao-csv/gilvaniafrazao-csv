@@ -2,26 +2,23 @@
 
 <p align="left">
   Computer Science student at IFMA (Brazil) · 7th semester<br>
-  Bridging <strong>Technology</strong> and <strong>Sports Management</strong>
 </p>
 
 ---
 
 ### 🏒 About Me
 
-I'm a Computer Science student transitioning into **Sports Management and Business Analytics**, with a focus on using data and technology as strategic tools — not as an end in themselves.
+I'm a Computer Science student transitioning into **Data and Business Analytics**, with a focus on using data and technology as strategic tools — not as an end in themselves.
 
-My goal is to work in international sports organizations (NHL, FIFA, IOC, NBA) in roles that combine strategy, operations, and data-driven decision making.
+My goal is to work in international organizations in roles that combine strategy, operations, and data-driven decision making.
 
 ---
 
 ### 🎯 Current Focus
 
-- 📊 Building a portfolio in **Sports Business Analytics**
-- 📚 Studying **Python**, **SQL**, and **Power BI** for sports data
-- 🌎 Preparing for an **international Master's degree** in Sports Management
-- 🏒 Researching the **NHL** as a benchmark for sports management excellence
-
+- 📊 Building a portfolio in **Business Analytics & Data Visualization**
+- 📚 Studying **Python**, **SQL**, and **Power BI** for data
+- 🌎 Preparing for an **international Master's degree**
 ---
 
 ### 🛠️ Skills & Tools
@@ -31,7 +28,7 @@ My goal is to work in international sports organizations (NHL, FIFA, IOC, NBA) i
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-**Areas:** Sports Management · Business Analytics · Project Management · Strategy
+**Areas:** Business Analytics · Project Management · Strategy · Data Visualization
 
 ---
 
