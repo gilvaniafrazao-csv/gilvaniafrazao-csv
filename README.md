@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="left">Hi, I'm Gilvânia Frazão 👋</h1>
 
-<!--
-**gilvaniafrazao-csv/gilvaniafrazao-csv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  Computer Science student at IFMA (Brazil) · 7th semester<br>
+  Bridging <strong>Technology</strong> and <strong>Sports Management</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🏒 About Me
+
+I'm a Computer Science student transitioning into **Sports Management and Business Analytics**, with a focus on using data and technology as strategic tools — not as an end in themselves.
+
+My goal is to work in international sports organizations (NHL, FIFA, IOC, NBA) in roles that combine strategy, operations, and data-driven decision making.
+
+---
+
+### 🎯 Current Focus
+
+- 📊 Building a portfolio in **Sports Business Analytics**
+- 📚 Studying **Python**, **SQL**, and **Power BI** for sports data
+- 🌎 Preparing for an **international Master's degree** in Sports Management
+- 🏒 Researching the **NHL** as a benchmark for sports management excellence
+
+---
+
+### 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+**Areas:** Sports Management · Business Analytics · Project Management · Strategy
+
+---
+
+### 📌 Portfolio Projects
+
+> Coming soon — first project launching July 2026
+
+<!-- 
+| Project | Description | Tools |
+|---------|-------------|-------|
+| NHL Analytics | ... | Python, Power BI |
 -->
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gilvania-frazao)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@gilvaniafrazao.csv)
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gilvaniafrazao-csv&color=grey&style=flat" alt="profile views" />
+</p>
